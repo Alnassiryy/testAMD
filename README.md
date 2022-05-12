@@ -16,3 +16,5 @@ Team Member
 - Labeeb Khan
 - Sumanth Subbarman
 - Vikas P Damle
+- Marwan Ismail
+- Saad Moin Khan
